@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GenerateDataPieChart</string>
+    <string name = "action_name">生成你的账单饼状图吧</string>
+</resources>
